@@ -58,7 +58,7 @@ const Contact = () => {
                     </form>
                 </div>
             </div>
-            <p className='copyright'>This page is created by - <a href="https://xanderbilla.vercel.app" target="_blank" rel="noreferrer"><Brand height={ 60}  /></a></p>
+            <p className='copyright'>This page is created by - <a href="https://xanderbilla.vercel.app" target="_blank" rel="noreferrer"><Brand height={30}  /></a></p>
             
         </div>
     )
